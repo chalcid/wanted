@@ -1,6 +1,6 @@
 
-# Chalcids wanted
+# Chalcidoidea Wanted
 
-_Requests for chalcid specimens supporting scientific research._ *This is extremely strictly not for commercial exchange.*
+_Requests for chalcid specimens supporting scientific research._ *These pages are strictly not for commerical exchange.*
 
-[Polynemoidea](wanted/Polynemoidea.md)
+[Polynemoidea](not_found/polynemoidea)
